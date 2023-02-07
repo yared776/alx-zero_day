@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< Updated upstream
 echo "ALX"
+=======
+echo "ALX School is so cool!"
+>>>>>>> Stashed changes
